@@ -56,13 +56,9 @@
 
 ### Статистика GitHub
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" alt="langs" />
-</p>
+<!-- Общие статики -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wwpierre&show_icons=true&rank_icon=github&v=1)
+
 
 ---
 
