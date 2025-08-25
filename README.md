@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:gamderbergs@gmail.com">Email</a> •
-  <a href="[https://t.me/your_tg](https://t.me/artmishhhh)">Telegram</a> •
+  <a href="[https://t.me/artmishhhh]">Telegram</a> •
   <a href="https://cv.link">CV</a>
 </p>
 
